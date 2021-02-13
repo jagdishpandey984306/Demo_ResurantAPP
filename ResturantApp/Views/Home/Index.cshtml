@@ -1,0 +1,37 @@
+﻿
+@model Resturant.Shared.Customer.CustomerDetails
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<a asp-controller="Home" asp-action="CustomerList" class=" btn btn-primary">Employee List</a>
+<hr />
+<form asp-controller="Home" asp-action="AddDetails" method="post">
+    <div class="form-group">
+        <label asp-for="CustomerName"></label>
+        <input type="text" asp-for="CustomerName" placeholder="Enter CustomerName" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="PermanentAddress"></label>
+        <input type="text" asp-for="PermanentAddress" placeholder="Enter PermanentAddress" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TemporaryAddress"></label>
+        <input type="text" asp-for="TemporaryAddress" placeholder="Enter TemporaryAddress" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ContactNumber"></label>
+        <input type="text" asp-for="ContactNumber" placeholder="Enter ContactNumber" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="EmailAddress"></label>
+        <input type="text" asp-for="EmailAddress" placeholder="Enter EmailAddress" class="form-control" />
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+</form>

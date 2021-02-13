@@ -1,0 +1,12 @@
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Repository\bin\Debug\netstandard2.0\Resturant.Repository.deps.json
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Repository\bin\Debug\netstandard2.0\Resturant.Repository.dll
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Repository\bin\Debug\netstandard2.0\Resturant.Repository.pdb
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Repository\bin\Debug\netstandard2.0\Resturant.Shared.dll
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Repository\bin\Debug\netstandard2.0\Resturant.Shared.pdb
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Repository\obj\Debug\netstandard2.0\Resturant.Repository.csprojAssemblyReference.cache
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Repository\obj\Debug\netstandard2.0\Resturant.Repository.AssemblyInfoInputs.cache
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Repository\obj\Debug\netstandard2.0\Resturant.Repository.AssemblyInfo.cs
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Repository\obj\Debug\netstandard2.0\Resturant.Repository.csproj.CoreCompileInputs.cache
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Repository\obj\Debug\netstandard2.0\Resturant.Repository.csproj.CopyComplete
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Repository\obj\Debug\netstandard2.0\Resturant.Repository.dll
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Repository\obj\Debug\netstandard2.0\Resturant.Repository.pdb

@@ -1,0 +1,9 @@
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Shared\bin\Debug\netstandard2.0\Resturant.Shared.deps.json
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Shared\bin\Debug\netstandard2.0\Resturant.Shared.dll
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Shared\bin\Debug\netstandard2.0\Resturant.Shared.pdb
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Shared\obj\Debug\netstandard2.0\Resturant.Shared.AssemblyInfoInputs.cache
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Shared\obj\Debug\netstandard2.0\Resturant.Shared.AssemblyInfo.cs
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Shared\obj\Debug\netstandard2.0\Resturant.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Shared\obj\Debug\netstandard2.0\Resturant.Shared.dll
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Shared\obj\Debug\netstandard2.0\Resturant.Shared.pdb
+C:\Users\jagdish\Desktop\ResturantApp\Resturant.Shared\obj\Debug\netstandard2.0\Resturant.Shared.csprojAssemblyReference.cache
